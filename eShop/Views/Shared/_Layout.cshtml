@@ -1,0 +1,90 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <link rel="shortcut icon" href="~/images/favicon.png" type="">
+    <title>@ViewData["Title"] - eShop</title>
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+    <!-- font awesome style -->
+    <link href="~/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="~/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/css/responsive.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="hero_area">
+        <!-- header section strats -->
+        <header class="header_section">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg custom_nav-container ">
+                    <a class="navbar-brand" href="@Url.Action("Index", "Home")"><img width="151" height="55" src="~/images/logo.png" alt="#" /></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class=""> </span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul id="navbar" class="navbar-nav">
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "Home")">Home</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "Products")">All Products</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="@Url.Action("Index", "Cart")">Cart</a>
+                            </li>
+                            @{
+                                var cookieUser = HttpContextAccessor.HttpContext.Request.Cookies["User"];
+                                var user = cookieUser!=null ? Newtonsoft.Json.JsonConvert.DeserializeObject<eShop.Models.User>(cookieUser) : null;
+                                if (user != null && user.AccountType == "Admin")
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="@Url.Action("Index", "Orders")">Orders</a>
+                                    </li>
+                                }
+
+                                if (user == null)
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="@Url.Action("Index", "Login")">Login</a>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="@Url.Action("Logout", "Login")">Logout</a>
+                                    </li>
+                                }
+                            }
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </header>
+        <!-- end header section -->
+        @RenderBody();
+        <div class="cpy_" style="position:fixed;bottom:0px;width:100%;">
+            <p>© 2021 All Rights Reserved By <a href="#">eShop</a></p>
+        </div>
+        <!-- jQery -->
+        <script src="~/js/jquery-3.4.1.min.js"></script>
+        <!-- popper js -->
+        <script src="~/js/popper.min.js"></script>
+        <!-- bootstrap js -->
+        <script src="~/js/bootstrap.js"></script>
+        <!-- custom js -->
+        <script src="~/js/custom.js"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

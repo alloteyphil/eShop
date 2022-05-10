@@ -1,0 +1,61 @@
+﻿@model eShop.ViewModels.OrdersViewModel
+
+@{
+    ViewData["Title"] = "Orders";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Orders</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Order Id
+            </th>
+            <th>
+                Placed By
+            </th>
+            <th>
+                Delivery Address
+            </th>
+            <th>
+                Date and Time
+            </th>
+            <th>
+                Action
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.Orders)
+        {
+            <tr>
+                <td>
+                    @order.Id
+                </td>
+                <td>
+                    @order.User.FullName
+                </td>
+                <td>
+                    @order.DeliveryAddress
+                </td>
+                <td>
+                    @order.DateTime.ToString("dd/MM/yyyy hh:mm:ss")
+                </td>
+                <td>
+                    <a href="@Url.Action("View","Orders",new { Id = order.Id})">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

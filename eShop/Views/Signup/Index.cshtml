@@ -1,0 +1,52 @@
+﻿@model eShop.ViewModels.SignupViewModel
+
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Signup</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="why_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="full">
+                    <form id="signup-form" action="@Url.Action("CreateAccount","Signup")">
+                        <fieldset>
+                            <input type="text" placeholder="Email" name="Email" required />
+                            <input type="text" placeholder="Full Name" name="FullName" required />
+                            <input id="password" type="password" placeholder="Password" name="Password" required />
+                            <input id="confirm-password" type="password" placeholder="Confirm Password" required />
+                            <input type="submit" value="Create Account" onclick="Submit();" />
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts{ 
+<script>
+    function Submit() {
+        var password = $('#password').val();
+        var confirmPassword = $("#confirm-password").val();
+        if (password == confirmPassword) {
+            $('#signup-form').submit();
+        }
+        else {
+            alert("Password is not confirmed!");
+        }
+    }
+</script>
+}

@@ -1,0 +1,39 @@
+﻿@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@model eShop.ViewModels.CheckoutViewModel
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Checkout</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="why_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="full">
+                    <form action="@Url.Action("PlaceOrder","Checkout")">
+                        <fieldset>
+                            <textarea name="DeliveryAddress" placeholder="Devliery Address" required></textarea>
+                            <input type="number" placeholder="Card Number" maxlength="16" required />
+                            <input type="text" placeholder="Name on Card" required />
+                            <input type="month" placeholder="Expiry Date" required />
+                            <input type="number" placeholder="CVC" maxlength="3" required />
+                            <input type="submit" value="Checkout" />
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,68 @@
+﻿@model eShop.ViewModels.CartViewModel
+
+@{
+    ViewData["Title"] = "Cart";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Cart</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Total
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.CartItems) {
+        <tr>
+            <td>
+                @item.ProductName
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                @item.Quantity
+            </td>
+            <td>
+                @(item.Quantity*item.Price)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="row" style="margin:20px;width:100%;">
+    <div class="col-8"></div>
+    <form class="col-2" action="@Url.Action("Clear","Cart")">
+        <button type="submit" style="width:150px;height:50px;color:white;background-color:black;border:0px;border-radius:0px;text-align:center;">
+            Clear Cart
+        </button>
+    </form>
+    <form class="col-2" action="@Url.Action("Index","Checkout")">
+        <button type="submit" style="width:150px;height:50px;color:white;background-color:#f7444e;border:0px;border-radius:0px;text-align:center;">
+            Place Order
+        </button>
+    </form>
+</div>

@@ -1,0 +1,38 @@
+﻿@model eShop.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Checkout";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Login</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="why_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <div class="full">
+                    <form action="@Url.Action("Authenticate","Login")">
+                        <fieldset>
+                            <input type="text" placeholder="Email" name="Email" required />
+                            <input type="password" placeholder="Password" name="Password" required />
+                            <div class="row">
+                                <a href="@Url.Action("Index","Signup")" value="Signup" style="margin-top:10px;">Signup</a>
+                                <input type="submit" value="Login" />
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

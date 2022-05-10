@@ -1,0 +1,55 @@
+﻿@model eShop.ViewModels.OrdersViewModel
+
+@{
+    ViewData["Title"] = "View Order";
+}
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>Order Items</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Product
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Total
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model.Order.OrderItems)
+        {
+            <tr>
+                <td>
+                    @order.Product.Name
+                </td>
+                <td>
+                    $@order.Price
+                </td>
+                <td>
+                    @order.Quantity
+                </td>
+                <td>
+                    $@order.TotalAmount
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

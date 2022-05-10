@@ -1,0 +1,94 @@
+﻿@model eShop.ViewModels.ProductsViewModel
+
+@{
+    ViewData["Title"] = "View Product";
+}
+
+<style>
+    input {
+        height: 25px;
+        width: 50px;
+        text-align: center;
+        font-size: 16px;
+        border: 1px solid #ddd;
+        border-radius: 2px;
+        display: inline-block;
+    }
+</style>
+
+<section class="inner_page_head">
+    <div class="container_fuild">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="full">
+                    <h3>View Product</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="product_section layout_padding">
+    <form id="form1" action="@Url.Action("AddToCart","Products")" method="get">
+        <div class="container">
+            <div class="img-box" style="float:left;">
+                <img src="~/images/@Model.Product.Image" />
+            </div>
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Name)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Name)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Category)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Category.Name)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Brand)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Brand)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Price)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Price)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Color)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Color)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Product.Material)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Product.Material)
+                </dd>
+                <dt class="col-sm-2">
+                    Quantity
+                </dt>
+                <dd class="col-sm-2">
+                    <input hidden value="@Model.Id" name="Id" />
+                    <input hidden value="@Model.Name" name="Name" />
+                    <input hidden value="@Model.Price" name="Price" />
+                    <input id="quantity" type="number" value="1" min="1" name="Quantity" />
+                </dd>
+            </dl>
+            <div class="row float-right">
+                <button type="submit" style="width:150px;height:50px;color:white;background-color:#f7444e;border:0px;border-radius:0px;text-align:center;">
+                    Add to Cart
+                </button>
+            </div>
+        </div>
+    </form>
+</section>
+
+@section Scripts{
+}

@@ -1,0 +1,465 @@
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.csprojAssemblyReference.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.AssemblyInfoInputs.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.AssemblyInfo.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.csproj.CoreCompileInputs.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cs
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\appsettings.json
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.exe
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.deps.json
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.runtimeconfig.json
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.runtimeconfig.dev.json
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ref\eShop.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.Views.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\eShop.Views.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Humanizer.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\grtha\source\repos\eShop\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.Manifest.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.xml
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\scopedcss\bundle\eShop.styles.css
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.TagHelpers.input.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.TagHelpers.output.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.RazorCoreGenerate.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Signup\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.Views.pdb
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.csproj.CopyComplete
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.dll
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\ref\eShop.dll
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.pdb
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\eShop.genruntimeconfig.cache
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Products\View.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Products\CategoryWise.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\Orders\View.cshtml.g.cs
+C:\Users\grtha\source\repos\eShop\eShop\obj\Debug\net5.0\Razor\Views\ThankYou\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\bin\Debug\net5.0\appsettings.Development.json
+H:\Desktop\Website\eShop\bin\Debug\net5.0\appsettings.json
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.exe
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.deps.json
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.runtimeconfig.json
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.runtimeconfig.dev.json
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ref\eShop.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.Views.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\eShop.Views.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Humanizer.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Desktop\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.csproj.AssemblyReference.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.GeneratedMSBuildEditorConfig.editorconfig
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.AssemblyInfoInputs.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.AssemblyInfo.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.csproj.CoreCompileInputs.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.MvcApplicationPartsAssemblyInfo.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.Manifest.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.xml
+H:\Desktop\Website\eShop\obj\Debug\net5.0\scopedcss\bundle\eShop.styles.css
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.TagHelpers.input.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.TagHelpers.output.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.RazorCoreGenerate.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Orders\View.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\CategoryWise.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\View.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\Signup\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\ThankYou\Index.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cache
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cs
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.Views.pdb
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.csproj.CopyComplete
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.dll
+H:\Desktop\Website\eShop\obj\Debug\net5.0\ref\eShop.dll
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.pdb
+H:\Desktop\Website\eShop\obj\Debug\net5.0\eShop.genruntimeconfig.cache
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\appsettings.Development.json
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\appsettings.json
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.exe
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.deps.json
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.runtimeconfig.json
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.runtimeconfig.dev.json
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ref\eShop.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.Views.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\eShop.Views.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Humanizer.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Downloads\Website (1)\Website\eShop\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.csproj.AssemblyReference.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.GeneratedMSBuildEditorConfig.editorconfig
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.AssemblyInfoInputs.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.AssemblyInfo.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.csproj.CoreCompileInputs.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.MvcApplicationPartsAssemblyInfo.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.RazorAssemblyInfo.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.Manifest.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\staticwebassets\eShop.StaticWebAssets.xml
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\scopedcss\bundle\eShop.styles.css
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.TagHelpers.input.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.TagHelpers.output.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.RazorCoreGenerate.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Cart\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Checkout\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Orders\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Orders\View.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\CategoryWise.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Products\View.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\Signup\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\ThankYou\Index.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cache
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.RazorTargetAssemblyInfo.cs
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.Views.pdb
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.csproj.CopyComplete
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.dll
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\ref\eShop.dll
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.pdb
+H:\Downloads\Website (1)\Website\eShop\obj\Debug\net5.0\eShop.genruntimeconfig.cache
